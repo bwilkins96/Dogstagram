@@ -264,8 +264,8 @@ window.onload = event => {
     function getRandomComment() {
         let possibleComments = ["RUFF!", "I'm howling right now lol", "You're my best friend!!!!", "I want to PLAY!", "#mansbestfriend",
                                 "I feel like I can smell this image, it's like I'm really there!! :)", "Do you want to go on a play-date?",
-                                "YAAS alpha female SLAY!", "FOOD FOOD FOOD FOOOOOOOOOOD!!!!!!!!!!", "How do you guys feel about dogs?",
-                                "I think the dogs are right about JavaScript", "I have so much ENERGY!", "cool", "#fluffy", "bark", "i like your fur",
+                                "YAAS alpha female SLAY!", "FOOD FOOD FOOD FOOOOOOOOOOD!!!!!!!!!!", "How do you guys feel about cats?",
+                                "I think the cats are right about JavaScript", "I have so much ENERGY!", "cool", "#fluffy", "bark", "i like your fur",
                                 "Do you think the humans suspect anything?", ":)", "U・ᴥ・U", "dog check!!"];
 
         let randomIdx = Math.floor(Math.random() * possibleComments.length);
